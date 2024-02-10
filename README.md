@@ -8,7 +8,7 @@ You can click and change the currency from one to another from list of various c
 ## 🔗 Links
 To se the running model
 
-[click here](https://katherineoelsner.com/)
+[click here](https://currency-convertor-six-delta.vercel.app/)
 
 
 ## Installation
@@ -16,7 +16,7 @@ To se the running model
 Install my-project with npm
 
 ```bash
-  git clone "https://"
+  git clone "https://github.com/Ankit3060/Currency-Convertor.git"
   npm install
   npm run dev
 ```
